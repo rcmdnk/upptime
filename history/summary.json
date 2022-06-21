@@ -4,19 +4,19 @@
     "url": "https://rcmdnk.com",
     "icon": "https://favicons.githubusercontent.com/rcmdnk.com",
     "slug": "rcmdnk-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 7940,
-    "timeWeek": 2170,
-    "timeMonth": 705,
+    "timeDay": 5322,
+    "timeWeek": 1938,
+    "timeMonth": 687,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 36
     }
   }
 ]
