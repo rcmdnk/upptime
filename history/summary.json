@@ -4,18 +4,19 @@
     "url": "https://rcmdnk.com",
     "icon": "https://favicons.githubusercontent.com/rcmdnk.com",
     "slug": "rcmdnk-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 221,
-    "timeWeek": 223,
-    "timeMonth": 693,
+    "timeDay": 160,
+    "timeWeek": 208,
+    "timeMonth": 675,
     "timeYear": 243,
     "dailyMinutesDown": {
+      "2022-06-29": 0,
       "2022-06-21": 36
     }
   }
