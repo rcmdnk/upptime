@@ -2,7 +2,7 @@
   {
     "name": "rcmdnk' blog",
     "url": "https://rcmdnk.com",
-    "icon": "https://favicons.githubusercontent.com/rcmdnk.com",
+    "icon": "https://icons.duckduckgo.com/ip3/rcmdnk.com.ico",
     "slug": "rcmdnk-blog",
     "status": "up",
     "uptime": "99.98%",
@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 236,
-    "timeDay": 67,
-    "timeWeek": 225,
-    "timeMonth": 242,
-    "timeYear": 254,
+    "timeDay": 99,
+    "timeWeek": 223,
+    "timeMonth": 241,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2022-06-30": 121,
       "2022-06-29": 43,
