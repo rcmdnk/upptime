@@ -6,9 +6,9 @@
     "slug": "rcmdnk-blog",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 257,
     "timeDay": 598,
@@ -16,7 +16,7 @@
     "timeMonth": 411,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-09-30": 0
+      "2025-09-30": 3
     }
   }
 ]
