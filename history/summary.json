@@ -4,20 +4,21 @@
     "url": "https://rcmdnk.com",
     "icon": "https://icons.duckduckgo.com/ip3/rcmdnk.com.ico",
     "slug": "rcmdnk-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 310,
-    "timeDay": 7732,
-    "timeWeek": 2106,
-    "timeMonth": 752,
-    "timeYear": 327,
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.96%",
+    "time": 309,
+    "timeDay": 5201,
+    "timeWeek": 1887,
+    "timeMonth": 733,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2025-09-30": 66,
-      "2025-11-18": 113
+      "2025-11-18": 113,
+      "2026-07-18": 49
     }
   }
 ]
